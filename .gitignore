@@ -1,0 +1,20 @@
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Variables d'environnement / secrets
+.env
+backend/.env
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Stockage local
+storage/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+
